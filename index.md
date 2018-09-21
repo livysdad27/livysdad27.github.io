@@ -4,3 +4,4 @@
 
 layout: home
 ---
+![sky](images/sky.jpg)
