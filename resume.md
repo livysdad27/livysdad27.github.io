@@ -39,7 +39,7 @@ Served as an internal consultant reporting to the CTO charged with developing te
 * Led service recovery for the Digital Health Services team.  This entailed rebuilding the relationship between that team and IS to support critical functions, vendor management and collaboration on strat
 * As part of service recovery I resolved six security issues with a key ASP vendor and facilitated adopting OWASP best practices leading to zero ongoing issues.
 
-###Director of Technology Services
+### Director of Technology Services
 I led a team of IT architects, developers, data analysts, database administrators (approx. 28 FTEs) to deliver on unmet technology needs and consistently improve operations.
 
 * I led the migration of 500+ servers from two legacy datacenters into a corporate datacenter while simultaneously mitigating a flood threat.  This work was completed $900K ahead of budget.
