@@ -14,7 +14,7 @@ Develop product strategy and then lead the development and delivery of multiple 
 * Led the development of  a Telehealth Cart solution described as “Brain Dead Simple” by the nursing team.  It featured a zero touch setup, automated self test procedure and both back-end status monitoring as well as a local health indicator.
 * Selected by SVP of Product and the Chief of Staff to provide manager consulting and guidance on employee engagement initiatives in response to the yearly survey.
 
-### Manager -  Telehealth Solutions and Support, 2014 - 2016
+### Manager, Telehealth Solutions and Support, 2014 - 2016
 Led the transition from an “off-the-shelf” acute telehealth product to a custom product that simplifies workflow and improves the patient experience.  
 
 * Built a new agile scrum team and educated the Telehealth Leadership in how to govern the new model and integrate it into the operational support processes.
@@ -23,7 +23,7 @@ Led the transition from an “off-the-shelf” acute telehealth product to a cus
 * I led the assessment with legal to evaluate custom software against FDA compliance criteria.  This required deep subject matter expertise around FDA MDDS law, deployed technology and legal precedent in Telehealth.
 * Drove the  Enterprise security assessments for our custom software to complete threat models, analyze them and ensure compliance.  
 
-### Principal Analyst - Enterprise Telehealth, 2013 - 2014
+### Principal Analyst, Enterprise Telehealth, 2013 - 2014
 Deployed  a new telehealth videoconferencing platform (Vidyo) across the enterprise.  Drove the technical architecture, integration vendor selection, hardware selection and architecture including infrastructure  design and workflow development.
 
 * Led the vendor selection process for cart hardware and integration vendor, partnering with legal, finance and the Telehealth leadership team to ensure balance between cost, supportability and compliance with FDA criteria.
