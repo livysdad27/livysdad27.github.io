@@ -4,4 +4,4 @@
 
 layout: home
 ---
-![sky](images/sky.jpg)
+![gnome](images/seriousgnome.JPG)
