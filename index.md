@@ -4,4 +4,4 @@
 
 layout: home
 ---
-![gnome](images/seriousgnome.JPG)
+![gnome](images/ewa.jpg)

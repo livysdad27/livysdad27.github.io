@@ -6,7 +6,7 @@ permalink: "/about/"
 
 ![yo-le-tengo](/images/MyNoggin.jpg)
 
-At work I'm a Product Manager who has spent more than two decades in healthcare IT. 
+At work I'm a Product Operations Director who has spent more than two decades in healthcare IT. 
 
 At home I get to hang out with my lovely wife, youngest kid, three dogs, two parakeets, one cat, one turtle and a goat. 
 
