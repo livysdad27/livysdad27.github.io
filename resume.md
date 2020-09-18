@@ -3,7 +3,10 @@ title: Resume
 layout: page
 permalink: "/resume/"
 ---
-### Director, Product Operations [2019 - present]
+### Chief of Staff/Director Operations [2016 - 2020]
+
+### Director Product Operations [2019 - 2020]
+Build out a new team that is responsible for scaling and operationalizing DIG products.  Led the platform implementation for our first external customer health system.  Led the expansion of online scheduling capabilities while streamlining operations.  Led the MyChart product roadmap.  Led the initial response to COVID-19 and subsequent service recovery.
 
 ### Principal Product Manager [2016 - 2020]
 Research, present and execute product strategy for large scale complex initiatives and provide leadership for other members of the product team delivering new products and features against our quarterly roadmap.  I worked embedded with 5+ scrum teams as a product owner/tpm to deliver an on demand healthcare platform across three different modalities that integrated into the hospital system electronic medical record (Epic).  The platform serves more than 110K patients/year of which 30% are new to the health system.  The platform utilizes FHIR standard APIs, WebRTC Audio/Video through responsive web and native mobile applications.
