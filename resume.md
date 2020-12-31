@@ -3,7 +3,7 @@ title: Resume
 layout: page
 permalink: "/resume/"
 ---
-### Chief of Staff/Director Operations [2016 - 2020]
+### Chief of Staff/Director Operations [2019 - 2020]
 
 ### Director Product Operations [2019 - 2020]
 Build out a new team that is responsible for scaling and operationalizing DIG products.  Led the platform implementation for our first external customer health system.  Led the expansion of online scheduling capabilities while streamlining operations.  Led the MyChart product roadmap.  Led the initial response to COVID-19 and subsequent service recovery.
