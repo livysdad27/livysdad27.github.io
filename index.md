@@ -4,4 +4,4 @@
 
 layout: home
 ---
-![gnome](images/seriousgnome.JPG)
+![Olympic Beach](images/umanaya.jpeg)
