@@ -6,7 +6,7 @@ categories: work, reflection
 ---
 ![Rusty Pieces](/images/vise_disassembled.jpeg)
 
-My Grandfather trained and shoed horses when he was young.  He did a lot of things but as a result of that, after years of being a welder, he decided to take up blacksmithing as a hobby.  I remember him making me new S-hooks for my truck’s cargo net after I showed him how the plastic ones that came with it were failing.  Now, four years after he passed away I came to have some of his old tools.  My father already had a forge and some of his own so he sent me home with a coal fired forge, anvil and leg vise.  
+My Grandfather trained and shoed horses when he was young.  He did a lot of things but as a result of that, after years of being a welder, he decided to take up blacksmithing as a hobby.  I remember him making me new S-hooks for my truck’s cargo net after I showed him how the plastic ones that came with it were failing.  Now, four years after he passed away I came to have some of his old tools.  My father already had a forge and some tools of his own so he sent me home with a coal fired forge, anvil and leg vise.  
 
 A blacksmith’s leg vise is an impressive piece of hardware.  Meant to bolt onto a table top or stump it has a metal post (the leg) that supports itse weight and a screw to open and close the jaws.  When I got it home it was completely covered with rust.  It would still open and close but the various bolts and connectors were fused together and, as I told my Dad later, it turns out you can sometimes torque a rusted nut with a monkey wrench and a 16lb sledge hammer.
 
