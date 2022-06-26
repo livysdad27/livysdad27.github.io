@@ -24,8 +24,8 @@ twitter_username: livysdad27
 github_username:  livysdad27 
 
 # Build settings
-markdown: kramdown
-#theme: minima
+#markdown: kramdown
+theme: minima
 remote_theme: livysdad27/minima-modified
 google_analytics: UA-6130578-3
 plugins:
