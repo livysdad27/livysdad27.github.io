@@ -3,9 +3,6 @@ title: About
 layout: page
 permalink: "/about/"
 ---
-
-![yo-le-tengo](/images/MyNoggin.jpg)
-
 I built this site for a few reasons.  The first is that I used to enjoy blogging and writing now and again.  Sometimes this was about work and often it was about family, fishing or mini-farming and sometimes combinations of the above.  I chose the platform I did so that I'd get my hands dirty learning something new.  It turns out static site generators are very powerful but non-trivial, at least for me.  Some of the writing on here is really professional facing.  I have my resume as a top level part of this page for instance.  But I think over time I want it to be less work and more of, well, everything.
 
 ### About This Site
