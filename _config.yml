@@ -34,7 +34,7 @@ plugins:
   - jekyll-remote-theme
 
 minima-modified:
-  skin: classic
+  skin: solarized
   social_links:
     twitter: livysdad27
     github: livysdad27
