@@ -4,13 +4,13 @@ layout: post
 date: 2021-04-23 05:57 -0700
 categories: work, reflection 
 ---
-![Rusty Pieces](/images/vise_disassembled.jpeg)
-
 I have a good friend who I’ve worked with before and who is in a role with the same title as mine but it’s one of those roles where the reality and execution have more to do with the place where you’re working than what it's called.  These roles tend to suit me because I like to go where I’m needed.  One day she challenged me about a fork in the road and I told her that I didn’t want to switch paths right now, “But why?” she asked. To which I replied “Sometimes my timeframes are geologic.” but my answer felt weird.  I cocked my head to the side, took a sip of my beer and told her “I’ve never really unpacked that assumption though.”  She has a remarkable way of challenging me to ask new questions.  
 
 My Grandfather trained and shoed horses when he was young.  He did a lot of things but as a result of that, after years of being a welder, he decided to take up blacksmithing as a hobby.  I remember him making me new S-hooks for my truck’s cargo net after I showed him how the plastic ones that came with it were failing.  Now, four years after he passed away I came to have some of his old tools.  My father already had a forge and some tools of his own so he sent me home with a coal fired forge, anvil and leg vise.  
 
 A blacksmith’s leg vise is an impressive piece of hardware.  Meant to bolt onto a table top or stump it has a metal post (the leg) that supports itse weight and a screw to open and close the jaws.  When I got it home it was completely covered with rust.  It would still open and close but the various bolts and connectors were fused together and, as I told my Dad later, it turns out you can sometimes torque a rusted nut with a monkey wrench and a 16lb sledge hammer.
+
+![Rusty Pieces](/images/vise_disassembled.jpeg)
 
 Slowly but surely I got it disassembled, ground the rust off all the pieces and painted to slow down the rust.  I’ll grease the screw threads and make it ready to do work again.  Next I’ll restore the forge and then after all of that, like Grandpa, I’ll set up a small working area behind my shed and try my hand at heating and bending metal.  There are some things I’d like for the farm and I’d love to build some pretty pieces for my wife.  Plant hangers and maybe a new fireplace set over time.
 
