@@ -4,4 +4,4 @@
 
 layout: home
 ---
-![Olympic Beach](images/umanaya.jpeg)
+![Olympic Beach](images/lakeview.jpeg)
