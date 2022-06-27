@@ -40,6 +40,9 @@ minima-modified:
     github: livysdad27
     instagram: livysdad27
     linkedin: billyleejackson
+  extra_nav:
+    DIG: https://www.providence-dig.org/
+    Weather: https://weather.boggyhollowfarm.com
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
