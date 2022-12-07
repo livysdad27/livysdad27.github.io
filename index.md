@@ -5,3 +5,5 @@
 layout: home
 ---
 ![Olympic Beach](images/lakeview.jpeg)
+
+
