@@ -43,7 +43,7 @@ minima-modified:
     DIG: https://www.providence-dig.org/
     Weather: https://weather.boggyhollowfarm.com
 
-show_excerpts: false
+show_excerpts: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
