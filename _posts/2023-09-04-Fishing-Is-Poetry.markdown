@@ -3,11 +3,11 @@ title: Fishing Is Poetry
 layout: post
 date: 2023-09-04 05:57 -0700
 categories: reflection, 
-excerpt_separator: <--!more-->
+excerpt_separator: <--! more -->
 ---
 
 I fell in love with fishing sometime growing up.  My Mom loved to fish and started taking us to creeks and rivers to get us out of the house.  A few times we brought home a stringer of fish to fry up but eating them wasn’t really the thing we cared about.  We’d sit on the banks of Beaver Creek and pull spinners or toss worms until a white bass, trout or something else tugged on the line.  There was a pond we frequented as well and I remember renting a boat at a larger lake where we caught crappie on bobber rigs and my sister took a huge catfish trolling a spoon.
-<--!more-->
+<--! more -->
 
 Around this time my Mom got a book about fly-fishing.  It was one of those books, popular before the internet, written as a kind of general how-to.  There were glossy pictures detailing how to cast, where to find trout in a stream and they somehow got stuck in my imagination.  At the time fly-fishing seemed attractive because there was no extra weight (usually used for casting)  between you and the fish.  I was also obsessed with the catalogs of lures with their stories of amazing trips and lunker fish, obviously curated to sell their gear.  I’m convinced that the golden age of the catalog was the late 80s.  All of the above fed my imagination with dreams of catching big fish.
 
