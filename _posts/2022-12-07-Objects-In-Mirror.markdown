@@ -4,7 +4,6 @@ layout: post
 date: 2022-12-06 05:57 -0700
 categories: reflection
 ---
-
 Nobody seems to know what a pumphouse is.  That's perplexing to me.  If, as is likely, you’re not sure either, the basic situation is that if you don’t live where there is a municipal water system you need a well and a pump to pull the water up and out of the ground.  You also likely want something that keeps pressure in your water system so there is often an air-bladder system.  The whole mess is controlled by an electrical unit that knows when to power on both devices and hence, far from the city, you have running water.  All of these bits and pieces are subject to the elements unless you protect them so you build a tiny shed around them and that is the “pumphouse”.  
 
 This summer I had two primary projects to keep up with my property and one of them was re-siding our aging pumphouse.  I redid the roof two years ago as half of it had caved in and the old sheathing and siding were now in a similar state, having been used as scratching textures for our goats.  Plus it’s approximately 8000 years old so off I went to get the mess of siding, insulation etc… that it would take to fix up and ensure it lasted another decade or two.  
