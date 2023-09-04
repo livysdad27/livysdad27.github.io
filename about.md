@@ -4,7 +4,7 @@ layout: page
 permalink: "/about/"
 ---
 ### About this Blog
-I built this blog for a couple reasons.  The first is that I enjoy writing now and again.  Sometimes about work and often about family, fishing or mini-farming and sometimes combinations of the above.  Second, I chose the platform I did so that I'd get my hands dirty learning something new.  It turns out static site generators are very powerful but non-trivial, at least for me.  
+I built this blog for a couple reasons.  The first is that I enjoy writing now and again.  Sometimes about work and often about family, fishing or mini-farming and sometimes combinations of the above.  Second, I chose Jekyll so that I'd get my hands dirty learning something new.  It turns out static site generators are very powerful but non-trivial, at least for me.  
 ### About This Site
 This site is built using [Jekyll](https://jekyllrb.com) and hosted on Github using [Github Pages](https://pages.github.com).  I use a [Minima-modified](https://github.com/livysdad27/minima-modified) theme, that I forked from minima, although there are a ton of [really great themes](http://jekyllthemes.org) for Jekyll out there.
 ### About the Weather Link
