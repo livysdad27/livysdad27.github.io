@@ -5,8 +5,10 @@ permalink: "/resume/"
 ---
 ## Summary
 I've spent the last 20+ years working for [Providence](https://providence.org).  I've effectively had three main careers.  IT Support, Healthcare IT Leadership and Product/Incubation.  I currently work for the Providence [Digital Innovation Group](https://www.providence-dig.org/) where we incubate new products that turn into startups.
-### Sr Director, Technical Program Management/Product Operations [2021 - Present]
-I currently lead a team of Technical Program Managment and Product Operations professionals who focus on execution and incubation of new products in the Healthcare space.
+### Executive Director Product [2023 - present]
+Strategize and develop the product roadmap for a vertical.  Lead a team of Product Managers and Customer Success Managers to expand the value of our engagement platform to 3.5M accounts and 150M active users. 
+### Sr Director, Technical Program Management/Product Operations [2021 - 2023]
+Lead a team of Technical Program Managment and Product Operations professionals who focus on execution and incubation of new products.  Deliver on quarterly roadmap reviews, continuous delivery and product value.  Ensure timely and quality execution of product deliverables.
 ### Chief of Staff/Director Operations [2020 - 2021]
 Directly support the GVP Product Development by managing budget, staffing and day to day team operations.  Execute on additional special projects.  Coach and mentor leadership team.  Drive employee engagement.  
 ### Director Product Operations [2019 - 2020]
