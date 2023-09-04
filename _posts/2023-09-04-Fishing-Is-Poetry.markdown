@@ -20,6 +20,6 @@ So this last June I found myself traveling to his home.  I fished the waters he 
 
 A week ago I found myself on a beach fishing for salmon for the third time this year.  I did it with my fly rod just to see if I could and I could and I did.  That fish fought hard.  It fought hard enough to be written about in a Mepps spinner catalog from the late 1980s.  I finished up and took my prize to the cooler in my truck and decided to explore.  There was a place I’d heard about in whispers that I wanted to try and so I took my rod and walked through the pretty woods until I came down to a broad beach sprinkled with small boulders.  I walked out onto a sandy and wide flat and cast, expecting nothing at the low tide and two casts in I felt the thud
 
-I still feel astonished at this fish.  I touched nothing else that morning except a few pesky sculpin but the feeling of absolute surprise when that thud started to pulse with the fight if a good fish still blows my mind.  It was the feeling of discovery, of invention and joy of finding something new.  It felt like being young again.  
+I still feel astonished at this fish.  I touched nothing else that morning except a few pesky sculpin but the feeling of absolute surprise when that thud started to pulse with the fight of a good fish still blows my mind.  It was the feeling of discovery, of invention and joy of finding something new.  It felt like being young again.  
 
 ![flyingfish](/images/flyingfish.jpeg)
