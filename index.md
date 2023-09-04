@@ -4,6 +4,6 @@
 
 layout: home
 ---
-![Dory on the Bay](images/baydory.jpeg)
+![Dory on the Bay](images/baydory.jpg)
 
 
