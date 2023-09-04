@@ -4,6 +4,6 @@
 
 layout: home
 ---
-![Olympic Beach](images/lakeview.jpeg)
+![Dory on the Bay](images/baydory.jpeg)
 
 
