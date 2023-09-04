@@ -8,7 +8,7 @@ permalink: "/linkages/"
 * [DIG Summer Hackathon 2020 Video](https://www.providence-dig.org/resource/dig-summer-hackathon-2020-video/)
 * [DIG Summer Hackathon Interview (wherein I ramble a bit)](https://www.facebook.com/watch/?v=3592152817533482)
 ### Family Blogs
-* [Bill's -sky](https://bills-sky.blogspot.com) where my Dad writes about his experiences in astronomy!
+* [Bills-sky](https://bills-sky.blogspot.com) where my Dad writes about his experiences in astronomy!
 * [Girl Gone Granola](https://girlgonegranola.blogspot.com)
 * [Boggy Hollow Farm](https://boggyhollowfarm.com)
 * [Messy Flies (wherein I've never fixed most of the typos)](https://messyflies.blogspot.com)
