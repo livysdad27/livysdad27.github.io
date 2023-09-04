@@ -2,7 +2,7 @@
 title: Fishing Is Poetry
 layout: post
 date: 2023-09-04 05:57 -0700
-categories: reflection, 
+categories: reflection, fishing
 excerpt_separator: <!-- more -->
 ---
 
