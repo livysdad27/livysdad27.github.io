@@ -2,7 +2,7 @@
 title: Fishing Is Poetry
 layout: post
 date: 2023-09-04 05:57 -0700
-categories: reflection, fishing
+categories: reflection
 ---
 
 I fell in love with fishing sometime growing up.  My Mom loved to fish and started taking us to creeks and rivers to get us out of the house.  A few times we brought home a stringer of fish to fry up but eating them wasn’t really the thing we cared about.  We’d sit on the banks of Beaver Creek and pull spinners or toss worms until a white bass, trout or something else tugged on the line.  There was a pond we frequented as well and I remember renting a boat at a larger lake where we caught crappie on bobber rigs and my sister took a huge catfish trolling a spoon.
