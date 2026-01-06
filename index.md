@@ -4,6 +4,6 @@
 
 layout: home
 ---
-![Dory on the Bay](images/baydory.jpg)
+![My Anvil](images/anvil.jpg)
 
 
