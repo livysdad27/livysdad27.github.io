@@ -11,13 +11,14 @@ Our team, like every team, is spending lots of time with AI.  The question of ho
 My first experiment was around building a prototype for a feature.  I used Gemini Studio, with the Gemini 2.5 model and prompted it to build a simulation of a mobile application, with a particular context and behavior for the UX.  In that experiment it did a good job of setting it up, showing a generic version of what I asked for.  The more specific I was with the initial prompt (use a tile based UX reminiscent of windows mobile) vs generic the better it did.  It did a fair job of taking into account business context, with the understanding that until you’re specific it tends to generalize.  After multiple iterations I had, if not a pixel perfect prototype, something slightly more instructive than a figma click-through prototype.  Basically, something fairly easy to demo to test a concept with a team.
 
 The pros
-It only took about an hour.
-I could see, quickly, if there were any red flags for the workflow I was thinking of.
-I SUSPECT it’d be pretty easy to facilitate a team working session to iterate and update the prompts in real time.
+- It only took about an hour.
+- I could see, quickly, if there were any red flags for the workflow I was thinking of.
+- I SUSPECT it’d be pretty easy to facilitate a team working session to iterate and update the prompts in real time.
+
 The cons
-The business context is implied vs explicitly stated as it would be in a one pager or amazon style PRFAQ.  
-It’s not deployable working code although demoable for sure.
-The experience is a prototype/simulation of a mobile app so edge cases and experience related to the physical device aren’t there.
+- The business context is implied vs explicitly stated as it would be in a one pager or amazon style PRFAQ.  
+- It’s not deployable working code although demoable for sure.
+- The experience is a prototype/simulation of a mobile app so edge cases and experience related to the physical device aren’t there.
 
 Next I was curious about working code……
 
