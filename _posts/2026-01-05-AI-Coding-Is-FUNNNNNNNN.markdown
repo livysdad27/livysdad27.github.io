@@ -24,7 +24,7 @@ Next I was curious about working code……
 
 ### Next up, Cursor for PMs
 
-If you’re not familiar, Cursor is an IDE with multiple LLMs integrated.  After watching several Youtube tutorials I set off to build an Android app with a Python back-end.  Note that I’m not a power user and I was using the default Cursor Orchestrator model.  Using what I learned from my prior experiment and the vids I reviewed I dove right into prompting it to research a specific set of problems and come up with a plan to build the desired apps.
+If you’re not familiar, [Cursor](https://cursor.com/) is an IDE with multiple LLMs integrated.  After watching several Youtube tutorials I set off to build an Android app with a Python back-end.  Note that I’m not a power user and I was using the default Cursor Orchestrator model.  Using what I learned from my prior experiment and the vids I reviewed I dove right into prompting it to research a specific set of problems and come up with a plan to build the desired apps.
 
 Cursor is FUN to watch code.  It’s fast and watching it plan, execute, plan execute and then get to an ending point is interesting all by itself.  It does a good job of documenting its own work in markdown files and going from session to session.
 
@@ -38,7 +38,7 @@ If you’re a PM and can afford cursor, or tooling like it, IMO it’s well wort
 
 ### Writing Actual Code
 
-I do contribute a small amount of code to an open source community.  Weewx is a python based open source personal weather station data aggregation and web display software that I use on the weather link for this blog.  The Weatherflow Tempest is a personal weather station that out of the box has network connectivity and an API, which is a big part of why I chose it.  The Weewx community had a driver for the local UDP packet interface but not one for the cloud API so off I went to try my hand at it.  A few years later I get at least a couple of notes/tickets for people who also use it.  This is working code, even though I’m not an engineer I do have some haxor-skillz.  Basically I can play an engineer on TV.
+I do contribute a small amount of code to an open source community.  Weewx is a python based open source personal weather station data aggregation and web display software that I use on the [weather](https://billyjackson.us/about/) link for this blog.  The Weatherflow Tempest is a personal weather station that out of the box has network connectivity and an API, which is a big part of why I chose it.  The Weewx community had a driver for the local UDP packet interface but not one for the cloud API so off I went to try my hand at it.  A few years later I get at least a couple of notes/tickets for people who also use it.  This is working code, even though I’m not an engineer I do have some haxor-skillz.  Basically I can play an engineer on TV.
 
 My question was could I get Cursor to do a good job of understanding the ins and outs of Weewx vs previous experiments.  My previous attempts with meta’s llama 2 LLM gave me some weird results.  It would hallucinate solutions to questions regarding improvements to the driver with a tremendous amount of confidence, I suspect because Weewx isn’t very mainstream.  Off we went….
 
