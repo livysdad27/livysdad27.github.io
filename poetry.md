@@ -6,6 +6,24 @@ permalink: "/poetry/"
 ### Interpret however you want
 
 ```
+15 Minutes of Ran
+
+A dry summer at the end of August
+  Yesterday was full of wind
+and a low down sense of change
+  But still so dry
+
+This morning I drove into a fog
+    and a smizzle falling through it
+It rolled off the mountains
+    Between the gaps of the wall
+That holds the rain back from Sequim
+
+That 15 minutes of rain
+  Told me more about September
+Than any oracle ever could
+
+
 These Birds
 
 
