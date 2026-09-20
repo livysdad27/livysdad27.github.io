@@ -6,7 +6,41 @@ permalink: "/poetry/"
 ### Interpret however you want
 
 ```
-15 Minutes of Ran
+September Moves Me
+
+I slept in
+Didn't wake at the crack of dawn
+so that I could relax and hot hustle through the weekend
+
+I loaded the 5wt into the boat
+A simple rod for a simple trip
+no bits and bobs and technical stuff
+
+Instead I ran up to the delta where I wondered about the edges
+The one that I fish from the beach
+A big kingfisher greeted me at the ramp
+
+The fog was thick before hoodsport
+But I could still make out the shore
+I ran up and down that salt mostly
+Fishing here and there
+
+My fleece was damp
+and my bones were cold
+Even with three layers
+
+That's how I know summer is ending
+Every year September tells me so
+When the cutthroat are already up river
+and I can't catch them in the salt anymore
+
+So the whole day
+The cold and the work of riding on water
+made me pleasantly drowsy
+Like the trees whose leaves start to turn....
+
+
+15 Minutes of Rain
 
 A dry summer at the end of August
   Yesterday was full of wind
