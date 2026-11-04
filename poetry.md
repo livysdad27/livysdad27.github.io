@@ -6,6 +6,16 @@ permalink: "/poetry/"
 ### Interpret however you want
 
 ```
+Bigleaf Maple
+
+Half bar bigleaf maples stand across the way
+  their leaves bright yellow
+Gleaming against a light red sunset
+  falling behind their brethren to the south
+and the one tall poplar shoots up straight, tall and golden the sun
+  flickering in the evening air
+
+
 September Moves Me
 
 I slept in
