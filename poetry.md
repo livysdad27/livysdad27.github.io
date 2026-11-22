@@ -70,7 +70,6 @@ Than any oracle ever could
 
 These Birds
 
-
 I stand with brother heron
   hallowed in his water
 swift sister kingfisher 
@@ -85,7 +84,6 @@ hunting secret swimming truth
 
 A Leaving Sky
 
-
 It's not something in the orange
 instead the dark grey line into the blue
 with the trees back-lit
@@ -98,9 +96,7 @@ and the truck is loaded and gassed up
 and I'm ready to get
 
 
-
 Mountains, Two Parts
-
 
 One night the lake was black as space
   Reflecting stars
@@ -123,10 +119,7 @@ I wonder in the long peel of geologic time
 and the lake's young depths, are no longer afraid
 
 
-
-
 Two White Dogs
-
 
 Lugnut and Old Boy bark at a four point buck 
   eating fermented apples
@@ -172,10 +165,7 @@ Until we all sleep
 Ranger next to our bed, childishly close and wary as Cerberus
 
 
-
-
 Write on my Coffin
-
 
 Like they did for Grandpa that day I wore red
   saw it too
@@ -197,10 +187,7 @@ before being taken up again
 to fall over and over and over 
 
 
-
-
 Water
-
 
 She danced in the waves
   leapt with joy
@@ -278,9 +265,7 @@ Booming big as the sea
 Stronger than me
 
 
-
 February Vegtables
-
 
 Stinging cold pinpricks on my ears
   tiny ice hailing down
@@ -292,10 +277,7 @@ A shoulder's twinging stitch
   pulling at tangles of roots
 
 
-
-
 I've been around
-
 
 The birds sing and the sky dims
   False dusk is coming
@@ -312,9 +294,7 @@ And the thinking son takes me back to the past long tense
 Where the white bass roamed and rock bass hid under shelves of stone
 
 
-
 Twilit
-
 
 The sun left a tracer
   as broad as the horizon
@@ -331,10 +311,7 @@ when the owls call
   and the rabbits scatter
 
 
-
-
 To Remember Who I Am
-
 
 I walk the path
   Muddy through tall wet grass
@@ -357,11 +334,8 @@ the sound the waves
   in my ears...
 
 
-
-
 The House in Valley
 November 27, 2013
-
 
 I recall growing up and visiting the house in Valley.
 Fields my Grandpa planted.
@@ -371,11 +345,8 @@ Walking with my Dad, tracking deer
 through a fresh November snow.
 
 
-
-
 My Ax
 November 28, 2013
-
 
 A purpose of the ax, sliding against long sticks of cedar,
 before making the fire, edge blunted that tasted concrete clumsiness.
@@ -387,11 +358,8 @@ Seldom they meet, until a bird needs readied for the table,
 then compassion is in the sound of their embrace.
 
 
-
-
 Fishing 
  December 1st, 2013
-
 
 I went fishing with my Mom
 because I learned to fish from her.
@@ -408,8 +376,6 @@ She said, no, because you're the only
 one crazy enough to fish with me on a day like this.
 
 
-
-
 The Sea
 
 The sea calls me home every day and I don't understand
@@ -422,9 +388,7 @@ burning your cheeks
 and you feel the done
 
 
-
 Pit
-
 
 Look up the black gravel 
   slide down again
@@ -447,10 +411,7 @@ For one million years yet younger than the stars
 Get up
 
 
-
-
 Mourning
-
 
 I'm mourning a place
 even though I'm not gone yet
@@ -467,9 +428,7 @@ pilgrim to a strange land
 new words to learn again
 
 
-
 Midwinter Sun
-
 
 The holidays settled 
 just past a solstice
