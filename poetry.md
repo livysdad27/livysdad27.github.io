@@ -8,7 +8,7 @@ permalink: "/poetry/"
 ```
 Bigleaf Maple
 
-Half bar bigleaf maples stand across the way
+Half barE bigleaf maples stand across the way
   their leaves bright yellow
 Gleaming against a light red sunset
   falling behind their brethren to the south
